@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // Alterado na Web
+        // Alterado no NetBeans
         ?>
     </body>
 </html>
